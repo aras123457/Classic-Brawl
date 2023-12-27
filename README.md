@@ -1,8 +1,6 @@
 # Classic Brawl
 
-Simple Brawl Stars 34.141 server emulator written in Python.
-
-(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SnZ2q5NQQEiHGmwRJt6ESUPcKeyB_jGAlA&usqp=CAU.png)
+Simple Brawl Stars 34.141 server emulator written in python
 
 ### Requirements:
 - Python 3.7 or higher
